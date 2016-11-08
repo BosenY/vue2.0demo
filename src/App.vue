@@ -17,7 +17,7 @@ import secondcomponent from './component/secondcomponent.vue'
 export default {
   data () {
     return {
-      msg: 'Hello Vue!'
+      msg: 'Hello Vue!1111111111111111'
     }
   },
   components: { firstcomponent, secondcomponent }
